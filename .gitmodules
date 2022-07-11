@@ -1,0 +1,3 @@
+[submodule "cfStats"]
+	path = cfStats
+	url = git@github.com:ascyrax/cfStats.git
